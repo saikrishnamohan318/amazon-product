@@ -7,9 +7,7 @@ This project analyzes Amazon product ratings data from CSV files and generates a
 - Python 3.x
 - pandas
 - numpy
-- docx
 - glob
-- os
 
 ## Dataset
 
